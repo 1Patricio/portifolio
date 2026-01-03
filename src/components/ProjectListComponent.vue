@@ -30,7 +30,7 @@
         <div class="flex items-center mr">
           <button class="btn bg-gray-700 text-white border-gray-700 mx-1">
             <img src="../assets/images/visualizar.png" alt="Icone Projetos" width="20" height="20">
-            <a href="https://rickandmortymvp.netlify.app/" target="_blank">Visualizar</a>
+            <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404319833536049152/" target="_blank">Visualizar</a>
           </button>
 
           <div class="ml-2 flex">
