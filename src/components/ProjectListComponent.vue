@@ -5,7 +5,7 @@
       <div class="carousel w-2/3 rounded lg:ml-24">
         <div id="pluggo1" class="carousel-item relative w-full">
           <img
-          src="../assets/images/pluggo-1.png"
+          src="../assets/images/pluggo-1.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#pluggo4" class="btn btn-circle">❮</a>
@@ -14,7 +14,7 @@
         </div>
         <div id="pluggo2" class="carousel-item relative w-full">
           <img
-          src="../assets/images/pluggo-2.png"
+          src="../assets/images/pluggo-2.webp"
           style="" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#pluggo1" class="btn btn-circle">❮</a>
@@ -23,7 +23,7 @@
         </div>
         <div id="pluggo3" class="carousel-item relative w-full">
           <img
-          src="../assets/images/pluggo-3.png"
+          src="../assets/images/pluggo-3.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#pluggo2" class="btn btn-circle">❮</a>
@@ -32,16 +32,16 @@
         </div>
         <div id="pluggo4" class="carousel-item relative w-full">
           <img
-          src="../assets/images/pluggo-4.png"
+          src="../assets/images/pluggo-4.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#pluggo3" class="btn btn-circle">❮</a>
-            <a href="#pluggo1" class="btn btn-circle">❯</a>
+            <a href="#pluggo5" class="btn btn-circle">❯</a>
           </div>
         </div>
-        <div id="pluggo4" class="carousel-item relative w-full">
+        <div id="pluggo5" class="carousel-item relative w-full">
           <img
-          src="../assets/images/pluggo-5.png"
+          src="../assets/images/pluggo-5.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#pluggo4" class="btn btn-circle">❮</a>
@@ -124,7 +124,7 @@
       <div class="carousel w-2/3 rounded lg:ml-24">
         <div id="slide1" class="carousel-item relative w-full">
           <img
-          src="../assets/images/buggers-1.png"
+          src="../assets/images/buggers-1.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#slide4" class="btn btn-circle">❮</a>
@@ -133,7 +133,7 @@
         </div>
         <div id="slide2" class="carousel-item relative w-full">
           <img
-          src="../assets/images/buggers-2.png"
+          src="../assets/images/buggers-2.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#slide1" class="btn btn-circle">❮</a>
@@ -142,7 +142,7 @@
         </div>
         <div id="slide3" class="carousel-item relative w-full">
           <img
-          src="../assets/images/buggers-3.png"
+          src="../assets/images/buggers-3.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#slide2" class="btn btn-circle">❮</a>
@@ -151,7 +151,7 @@
         </div>
         <div id="slide4" class="carousel-item relative w-full">
           <img
-          src="../assets/images/buggers-4.png"
+          src="../assets/images/buggers-4.webp"
           class="w-full" />
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#slide3" class="btn btn-circle">❮</a>
