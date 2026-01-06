@@ -10,14 +10,12 @@
           Vejas alguns projetos que desenvolvi ao longo da minha jornada, explorando ideias, desafios e soluções através
           do código.
         </p>
-        <button class="btn bg-gray-700 text-white border-gray-700 mx-1">
-          <img src="../assets/images/projetos-icon.webp" alt="Icone Projetos" width="20" height="20">
-          <a
-            target="blank"
-            @click="NavigationTo('/projects')"
-            >
+        <button
+          class="btn bg-gray-700 text-white border-gray-700 mx-1"
+          @click="NavigationTo('/projects')"
+        >
+         <img src="../assets/images/projetos-icon.webp" alt="Icone Projetos" width="20" height="20">
           Projetos
-          </a>
         </button>
       </div>
     </div>
