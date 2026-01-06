@@ -9,8 +9,12 @@
           class="w-full"
           alt="Imagem de Anderson Patricio com banner do projeto"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#pluggo4" class="btn btn-circle">❮</a>
-            <a href="#pluggo2" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('pluggo4')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('pluggo2')">
+              ❯
+            </button>
           </div>
         </div>
         <div id="pluggo2" class="carousel-item relative w-full">
@@ -18,8 +22,12 @@
           src="../assets/images/pluggo-2.webp"
           alt="Imagem da Home do projeto PlugGo"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#pluggo1" class="btn btn-circle">❮</a>
-            <a href="#pluggo3" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('pluggo1')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('pluggo3')">
+              ❯
+            </button>
           </div>
         </div>
         <div id="pluggo3" class="carousel-item relative w-full">
@@ -28,8 +36,12 @@
           class="w-full"
           alt="Imagem do móudlo mapa do projeto PlugGo"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#pluggo2" class="btn btn-circle">❮</a>
-            <a href="#pluggo4" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('pluggo2')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('pluggo4')">
+              ❯
+            </button>
           </div>
         </div>
         <div id="pluggo4" class="carousel-item relative w-full">
@@ -38,8 +50,12 @@
           class="w-full"
           alt="Imagem do login do projeto PlugGo"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#pluggo3" class="btn btn-circle">❮</a>
-            <a href="#pluggo5" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('pluggo3')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('pluggo5')">
+              ❯
+            </button>
           </div>
         </div>
         <div id="pluggo5" class="carousel-item relative w-full">
@@ -48,8 +64,12 @@
           class="w-full"
           alt="Imagem do modulo PlugHouse do projeto PlugGo"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#pluggo4" class="btn btn-circle">❮</a>
-            <a href="#pluggo1" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('pluggo4')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('pluggo1')">
+              ❯
+            </button>
           </div>
         </div>
       </div>
@@ -110,7 +130,7 @@
           <a href="https://rickandmortymvp.netlify.app/" target="_blank">Visualizar</a>
         </button>
 
-        <div class="card-actions justify-end">
+        <div class="card-actions justify-start mt-2 md:justify-end md:mt-0">
           <div class="badge badge-outline">Vue</div>
           <div class="badge badge-outline">DaisyUI</div>
           <div class="badge badge-outline">VueRouter</div>
@@ -132,8 +152,12 @@
           class="w-full"
           alt="Imagem de Anderson Patricio com Microfone"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#slide4" class="btn btn-circle">❮</a>
-            <a href="#slide2" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('slide4')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('slide2')">
+              ❯
+            </button>
           </div>
         </div>
         <div id="slide2" class="carousel-item relative w-full">
@@ -142,8 +166,12 @@
           class="w-full"
           alt="Imagem da logo da Atlética Buggers"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#slide1" class="btn btn-circle">❮</a>
-            <a href="#slide3" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('slide1')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('slide3')">
+              ❯
+            </button>
           </div>
         </div>
         <div id="slide3" class="carousel-item relative w-full">
@@ -152,8 +180,12 @@
           class="w-full"
           alt="Imagem de Anderson Patricio com Microfone"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#slide2" class="btn btn-circle">❮</a>
-            <a href="#slide4" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('slide2')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('slide4')">
+              ❯
+            </button>
           </div>
         </div>
         <div id="slide4" class="carousel-item relative w-full">
@@ -162,8 +194,12 @@
           class="w-full"
           alt="Imagem de participantes do evento III Rinha de Software"/>
           <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
-            <a href="#slide3" class="btn btn-circle">❮</a>
-            <a href="#slide1" class="btn btn-circle">❯</a>
+            <button class="btn btn-circle" @click="goTo('slide3')">
+              ❮
+            </button>
+            <button class="btn btn-circle" @click="goTo('slide1')">
+              ❯
+            </button>
           </div>
         </div>
       </div>
@@ -192,3 +228,15 @@
   </div>
 
 </template>
+<script setup>
+function goTo(id) {
+  const element = document.getElementById(id)
+  if (element) {
+    element.scrollIntoView({
+      behavior: 'smooth',
+      block: 'nearest',
+      inline: 'nearest'
+    })
+  }
+}
+</script>
