@@ -1,7 +1,12 @@
 <template>
   <div class="hero mt-2">
     <div class="hero-content flex-col lg:flex-row">
-      <img src="../assets/images/me.webp" class="w-sm rounded-lg shadow-2xl" alt="Foto de Anderson Patricio" />
+      <img
+        src="../assets/images/me.webp"
+        class="w-sm rounded-lg shadow-2xl"
+        alt="Foto de Anderson Patricio"
+        fetchpriority="high"
+      />
       <div>
         <h1 class="text-3xl font-bold sm:text-5xl">Seja Bem-Vindo!</h1>
         <p class="py-6">
