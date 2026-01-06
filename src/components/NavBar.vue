@@ -8,7 +8,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
           </svg>
         </div>
-        
+
         <NavPages />
       </div>
 
@@ -19,13 +19,13 @@
 
     <div class="hidden md:flex flex-1 flex-col items-center justify-center">
       <div class="flex gap-2 items-center">
-        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Icone de C#">
+        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Icone de Java">
+        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Icone de Spring">
+        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Icone de Javascript">
+        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Icone de React">
+        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Icone de VueJS">
+        <img height="16" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Icone de Flutter">
       </div>
 
       <p class="text-sm text-center">
