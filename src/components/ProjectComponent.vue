@@ -1,8 +1,10 @@
 <template>
   <div class="hero bg-base-200 max-h-screen">
     <div class="hero-content flex-col lg:flex-row-reverse">
-      <img src="../assets/images/projects.webp" class="w-sm rounded-lg shadow-2xl sm:ml-16"
-      alt="Foto de mesa de escritório"
+      <img
+        src="../assets/images/projects.webp"
+        class="w-sm rounded-lg md:shadow-2xl sm:ml-16"
+        alt="Foto de mesa de escritório"
       />
       <div>
         <h1 class="text-3xl font-bold sm:text-5xl">Meus projetos!</h1>

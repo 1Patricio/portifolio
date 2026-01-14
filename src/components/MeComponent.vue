@@ -3,7 +3,7 @@
     <div class="hero-content flex-col lg:flex-row">
       <img
         src="../assets/images/me.webp"
-        class="w-sm rounded-lg shadow-2xl"
+        class="w-sm rounded-lg md:shadow-2xl md:mr-5"
         alt="Foto de Anderson Patricio"
         fetchpriority="high"
       />
