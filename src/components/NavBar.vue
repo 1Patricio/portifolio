@@ -13,7 +13,7 @@
       </div>
 
       <button class="btn btn-ghost text-sm md:text-xl text-white">
-        Portifólio de Anderson Patricio
+        Portfólio de Anderson Patricio
       </button>
     </div>
 

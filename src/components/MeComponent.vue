@@ -36,7 +36,7 @@
             GitHub
           </a>
 
-          <a href="https://wa.me/48991509084?text=Olá Anderson, vi seu portifólio e fiquei interessado no seu trabalho, podemos conversar?" target="_blank"
+          <a href="https://wa.me/48991509084?text=Olá Anderson, vi seu portfólio e fiquei interessado no seu trabalho, podemos conversar?" target="_blank"
             class="btn bg-green-600 text-white border-green-600 mx-1"
             >
             <img src="../assets/images/whatsapp.webp" alt="Botão Whatsapp" width="20" height="20">
